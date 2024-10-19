@@ -6,8 +6,8 @@
 // Rational.ts
 export class Rational {
     constructor(
-        public numerator: number,   // 分子
-        public denominator: number   // 分母
+        public numerator: number,   
+        public denominator: number   
     ) {}
 
     getNumerator(): number {
